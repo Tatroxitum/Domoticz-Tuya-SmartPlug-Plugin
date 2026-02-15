@@ -11,7 +11,7 @@ Plugin is provided on best-effort.
 
 ## ONLY TESTED FOR Raspberry Pi
 
-With Python version 3.7.3 & Domoticz version V2022.1
+With Python version 3.7.3 & Domoticz version V2022.1 
 & Domoticz version V2025.2 with built in python and Debian 13
 
 ## Prerequisites
